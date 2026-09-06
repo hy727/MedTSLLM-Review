@@ -66,7 +66,7 @@ The papers are organized according to the six major application scenarios discus
 | Method | Year | Modality | Main Task | Paper | Code |
 |---|---:|---|---|---|---|
 | JoLT | 2023/2024 | ECG | ECG interpretation | [Paper](LINK) | - |
-| SignalGPT / Biosignal Copilot | 2023 | Biosignals | Biomedical report generation | [Paper](LINK) | - |
+| SignalGPT | 2023 | Biosignals | Biomedical report generation | [Paper](LINK) | - |
 | MEIT | 2025 | ECG | ECG report generation | [Paper](LINK) | [Code](https://github.com/AIoT-MLSys-Lab/MEIT) |
 | ECG-Chat | 2025 | ECG | ECG report generation | [Paper](LINK) | [Code](https://github.com/YubaoZhao/ECG-Chat) |
 | ECG-ReGen | 2025 | ECG | Report generation / QA | [Paper](LINK) | - |
